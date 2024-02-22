@@ -1,0 +1,9 @@
+#Box-Model{
+    border: solid 3px chocolate;  
+    padding: 20px;
+    margin: 5%;
+
+}
+#Boxed-Models{
+    border: dotted 3px chocolate;
+}
